@@ -2,6 +2,9 @@
 ---
 This repository hosts the collaborative project reports, reflections, and key learning outcomes from the summer learning program that was hosted by Aivancity Paris-Cachan for students of the International Institute of Information Technology, Bangalore (IIIT-B).
 
+![IMG-20250514-WA0002](https://github.com/user-attachments/assets/9a58b6db-982a-4d2e-a9a1-19e983b7f330)
+
+
 ## 📘 About the Program
 
 The **Aivancity–IIIT-Bangalore Summer Program 2025** was a two-week academic and cultural exchange initiative focused on:
