@@ -1,4 +1,4 @@
-# Student Projects – AI Ethics Summer 2025
+# Student Projects – AI Ethics and Business Summer Learning Program 2025
 
 This directory documents the hands-on projects developed by student teams during the **Aivancity–IIIT-Bangalore Summer Learning Program 2025**.
 
@@ -17,16 +17,17 @@ The hands-on projects addressed real-world challenges at the intersection of AI 
 - **Fair and Sustainable Energy Usage Predictions: An AI and Ethics Case Study**
 - **ML based Cow Calving Ease prediction with ML and its ethical perspectives**
 - **Investigating Bias and Transparency in AI-Powered Credit Scoring**
+  ---
 - **Ethical AI for Student Performance Prediction in Educational Systems**
-ML question
+
+# ML question
 * Build and train a n ML model to predict student performance (e.g., final grade or pass/fail status). How accurately can a machine learning model predict student academic performance using socioeconomic, demographic, and behavioral data?
 
-Ethical Questions:
+# Ethical Questions:
 * Bias and fairness: Does the model disproportionately mispredict for students from underrepresented backgrounds?
 *  Data privacy: How is sensitive student data handled responsibly?
 *  Algorithmic transparency: Can educators and students understand how predictions are made? Intervention risks:
 *  Could predictions lead to harmful labeling or academic tracking?
-
 
 ---
 
@@ -34,23 +35,19 @@ Ethical Questions:
 
 Each team consisted of students from both institutions, encouraging:
 
-- Interdisciplinary perspectives  
+- Interdisciplinary perspectives bridging ML and ethics
 - Peer-to-peer learning across cultures  
 - Co-design of solutions rooted in ethical principles
-
-Projects were guided by faculty mentors and aligned with ethical frameworks such as the EU AI Act, IEEE Ethically Aligned Design, and India's National AI Strategy.
-
 ---
 
 ## 🏁 Outcomes
 
 Each team delivered:
 
-- A final written report (PDF)
-- A presentation (PPT or PDF)
-- Supporting artifacts: code notebooks, datasets, visuals, or documentation
+- A jupyter notebook with the ML task implementation
+- A presentation discussing the ML results and ethical questions
 
-These outcomes are stored in individual team folders within this directory.
+These outcomes can be found under this repository.
 
 ---
 
