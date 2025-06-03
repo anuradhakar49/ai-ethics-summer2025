@@ -28,8 +28,9 @@ Implement binary classification and predict whether a patient is likely to have 
 
 ## Project 2: ML based Cow Calving Ease prediction with ML and its ethical perspectives
 ### Group name, members, github link
-*Group: PSG
-*Project github link : https://github.com/maverickk-ux/CowMonitoringSystem
+* Group: PSG
+
+* Project github link : https://github.com/maverickk-ux/CowMonitoringSystem
 
 ### ML question
 Implement an ML model to predict energy consumption at a future time point (e.g., hourly/daily usage) or categorize usage patterns (e.g., high, medium, low).
@@ -41,7 +42,7 @@ Implement an ML model to predict energy consumption at a future time point (e.g.
 
 ## Project 3: Investigating Bias and Transparency in AI-Powered Credit Scoring
 ### Group name, members, github link
-*Group: Baguette Bunch
+*Group: Baguette Bunch(Sidhanth, Sahiti, Vishal)
 *Project github link : https://github.com/sahiti3636/finance_project_aivancity.git
 ### ML question
 Implement an ML model for binary classification and predict whether an individual should be granted a loan (Yes/No).
