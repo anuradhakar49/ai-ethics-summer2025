@@ -1,7 +1,6 @@
-# AI Ethics and Business Summer Learning Program 2025 – Aivancity × IIIT-Bangalore
-
-This repository hosts the collaborative project reports, reflections, and key learning outcomes from the summer learning program that was hosted by Aivancity Paris-Cachan for students of the International Institute of Information Technology, Bangalore (IIIT-B).
+# AI Ethics and Business Summer Learning Program 2025 – Aivancity × IIIT-Bangalore 
 ---
+This repository hosts the collaborative project reports, reflections, and key learning outcomes from the summer learning program that was hosted by Aivancity Paris-Cachan for students of the International Institute of Information Technology, Bangalore (IIIT-B).
 
 ## 📘 About the Program
 
