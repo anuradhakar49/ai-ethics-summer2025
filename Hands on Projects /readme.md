@@ -14,13 +14,36 @@ Several mentoring sessions for the hands on projects session were organized duri
 
 The hands-on projects addressed real-world challenges at the intersection of AI and ethics, including (but not limited to):
 
-- **Fair and Sustainable Energy Usage Predictions: An AI and Ethics Case Study**
-- **ML based Cow Calving Ease prediction with ML and its ethical perspectives**
-- **Investigating Bias and Transparency in AI-Powered Credit Scoring**
-  ---
-- ## Ethical AI for Student Performance Prediction in Educational Systems
-
+## Project 1:Fair and Sustainable Energy Usage Predictions: An AI and Ethics Case Study
 ### ML question
+Implement binary classification and predict whether a patient is likely to have diabetes (Outcome: 0 = No, 1 = Yes).
+### Ethical Questions:
+Bias & Fairness:Does the model perform differently across gender, age, or ethnicity? What are the implications of such disparities?
+Privacy: What data would a real-world version of this system collect? How can we ensure patient confidentiality?
+Transparency: Is the model’s decision understandable to a non-technical healthcare worker? Should patients be informed how an AI judged their risk?
+Responsibility: Who is accountable if the model gives a wrong diagnosis? Should AI be used as a decision support or a decision maker?
+
+## Project 2: ML based Cow Calving Ease prediction with ML and its ethical perspectives
+### ML question
+Implement an ML model to predict energy consumption at a future time point (e.g., hourly/daily usage) or categorize usage patterns (e.g., high, medium, low).
+### Ethical Questions:
+* Bias in access: How might AI models favor certain socio-economic groups or regions?
+* Privacy concerns: What are the risks of using granular energy data for prediction?
+* Transparency and accountability: How to explain AI decisions in a fair, interpretable way?
+* Sustainability: Can AI help detect energy inefficiencies or recommend eco-friendly practices without penalizing vulnerable groups?
+## Project 3: Investigating Bias and Transparency in AI-Powered Credit Scoring
+### ML question
+Implement an ML model for binary classification and predict whether an individual should be granted a loan (Yes/No).
+
+### Ethical Questions:
+* Bias and Discrimination: Are predictions fair across gender, age, or ethnicity?
+* Transparency: Can model decisions be explained clearly?
+* Autonomy and Consent: Do users know how their data is used?
+* Accountability: Who is responsible when AI denies credit unfairly?
+  
+## Project 4: Ethical AI for Student Performance Prediction in Educational Systems
+
+### ML question:
 * Build and train a n ML model to predict student performance (e.g., final grade or pass/fail status). How accurately can a machine learning model predict student academic performance using socioeconomic, demographic, and behavioral data?
 
 ### Ethical Questions:
@@ -28,7 +51,6 @@ The hands-on projects addressed real-world challenges at the intersection of AI 
 *  Data privacy: How is sensitive student data handled responsibly?
 *  Algorithmic transparency: Can educators and students understand how predictions are made? Intervention risks:
 *  Could predictions lead to harmful labeling or academic tracking?
-
 ---
 
 ## 🌍 Collaborative Learning Approach
