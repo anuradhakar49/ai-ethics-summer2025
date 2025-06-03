@@ -18,7 +18,7 @@ The hands-on projects addressed real-world challenges at the intersection of AI 
 - **ML based Cow Calving Ease prediction with ML and its ethical perspectives**
 - **Investigating Bias and Transparency in AI-Powered Credit Scoring**
   ---
-- **Ethical AI for Student Performance Prediction in Educational Systems**
+- ## Ethical AI for Student Performance Prediction in Educational Systems
 
 # ML question
 * Build and train a n ML model to predict student performance (e.g., final grade or pass/fail status). How accurately can a machine learning model predict student academic performance using socioeconomic, demographic, and behavioral data?
