@@ -54,8 +54,8 @@ Implement an ML model for binary classification and predict whether an individua
   
 ## Project 4: Ethical AI for Student Performance Prediction in Educational Systems
 ### Group name, members, github link
-*Group: Les Astucieux: Varun, Adithya, Shivansh, Tejas
-*Project github link : https://github.com/Varun-iiitb/pass-fail-predictor.git
+* Group: Les Astucieux: Varun, Adithya, Shivansh, Tejas
+* Project github link : https://github.com/Varun-iiitb/pass-fail-predictor.git
   
 ### ML question:
 * Build and train a n ML model to predict student performance (e.g., final grade or pass/fail status). How accurately can a machine learning model predict student academic performance using socioeconomic, demographic, and behavioral data?
