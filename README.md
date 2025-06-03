@@ -6,7 +6,7 @@ This repository hosts the collaborative project reports, reflections, and key le
 
 The **Aivancity–IIIT-Bangalore Summer Program 2025** was a two-week academic and cultural exchange initiative focused on:
 
-- Exploring foundational and emerging issues in ** Ethical and business perspectives of AI technologies**
+- Exploring foundational and emerging issues in **Ethical and business perspectives of AI technologies**
 - Understanding **ethical** dimensions of machine learning projects
 - Fostering **international collaboration and dialogue** among students
 ---
@@ -45,4 +45,4 @@ The program was coordinated by faculty members from both institutions with exper
 
 For academic inquiries or collaborations related to this program, please contact:
 - **[Laurent Chebassier]** – chebassier@aivancity.ai
-- ** [Anuradha Kar]**    – kar@aivancity.ai
+- **[Anuradha Kar]**    – kar@aivancity.ai
