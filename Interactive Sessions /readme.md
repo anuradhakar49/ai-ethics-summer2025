@@ -2,7 +2,7 @@
 
 ## 📌 Objective: 
 
-This repository contains a curated list of questions which were designed to evaluate students’ understanding of ethical theories and principles, and their ability to apply them to real-world tech issues (2-3 minutes each). The answers are given by different student groups participating in the learning experience.
+This repository contains a curated list of questions which were designed to evaluate students’ understanding of ethical theories and principles, and their ability to apply them to real-world Machine learning problems (2-3 minutes each). The answers are given by different student groups participating in the 2025 AI Ethics and Business learning program hosted by aivancity.
 
 ---
 
