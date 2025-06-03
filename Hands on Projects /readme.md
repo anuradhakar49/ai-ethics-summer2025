@@ -28,7 +28,7 @@ Implement binary classification and predict whether a patient is likely to have 
 
 ## Project 2: ML based Cow Calving Ease prediction with ML and its ethical perspectives
 ### Group name, members, github link
-* Group: PSG(Shashank, Suyash, Sriram)
+* Group: PSG (Shashank, Suyash, Sriram)
 * Project github link : https://github.com/maverickk-ux/CowMonitoringSystem
 
 ### ML question
