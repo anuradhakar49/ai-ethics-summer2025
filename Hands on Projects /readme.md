@@ -20,10 +20,10 @@ The hands-on projects addressed real-world challenges at the intersection of AI 
   ---
 - ## Ethical AI for Student Performance Prediction in Educational Systems
 
-# ML question
+### ML question
 * Build and train a n ML model to predict student performance (e.g., final grade or pass/fail status). How accurately can a machine learning model predict student academic performance using socioeconomic, demographic, and behavioral data?
 
-# Ethical Questions:
+### Ethical Questions:
 * Bias and fairness: Does the model disproportionately mispredict for students from underrepresented backgrounds?
 *  Data privacy: How is sensitive student data handled responsibly?
 *  Algorithmic transparency: Can educators and students understand how predictions are made? Intervention risks:
