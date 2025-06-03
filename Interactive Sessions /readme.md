@@ -1,14 +1,9 @@
-# 📚 Q&A Repository
 
-This repository contains a curated list of **questions and answers** on various topics. It is organized to support quick reference and efficient study.
 
-## 📌 Table of Contents
+## 📌 Objective: 
 
-- [General Questions](#general-questions)
-- [Topic 1: Example Topic](#topic-1-example-topic)
-- [Topic 2: Example Topic](#topic-2-example-topic)
-- [Contributing](#contributing)
-- [License](#license)
+This repository contains a curated list of questions and answers which are designed to evaluate students’ understanding of ethical theories and principles, and their ability to apply them to real-world tech issues (2-3 minutes each)
+Outcome: Students to post answers under Discussions section on Blackboard
 
 ---
 
