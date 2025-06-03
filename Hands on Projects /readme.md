@@ -15,18 +15,23 @@ Several mentoring sessions for the hands on projects session were organized duri
 The hands-on projects addressed real-world challenges at the intersection of AI and ethics, including (but not limited to):
 
 ## Project 1:Fair and Sustainable Energy Usage Predictions: An AI and Ethics Case Study
-### Group members 
+### Group name, members, github link 
+Group: Croissant
+Sparsh's Github: https://github.com/sparshagra
+Dikshita's Github: https://github.com/dikshita2025
+Sindhoor's Github: https://github.com/AgentOfFedora
+Project repo link: https://github.com/sparshagra/PowerConsumptionPredictor
 
 ### ML question
 Implement binary classification and predict whether a patient is likely to have diabetes (Outcome: 0 = No, 1 = Yes).
 ### Ethical Questions:
-Bias & Fairness:Does the model perform differently across gender, age, or ethnicity? What are the implications of such disparities?
-Privacy: What data would a real-world version of this system collect? How can we ensure patient confidentiality?
-Transparency: Is the model’s decision understandable to a non-technical healthcare worker? Should patients be informed how an AI judged their risk?
-Responsibility: Who is accountable if the model gives a wrong diagnosis? Should AI be used as a decision support or a decision maker?
+* Bias & Fairness:Does the model perform differently across gender, age, or ethnicity? What are the implications of such disparities?
+* Privacy: What data would a real-world version of this system collect? How can we ensure patient confidentiality?
+* Transparency: Is the model’s decision understandable to a non-technical healthcare worker? Should patients be informed how an AI judged their risk?
+* Responsibility: Who is accountable if the model gives a wrong diagnosis? Should AI be used as a decision support or a decision maker?
 
 ## Project 2: ML based Cow Calving Ease prediction with ML and its ethical perspectives
-### Group members 
+### Group name, members, github link
 ### ML question
 Implement an ML model to predict energy consumption at a future time point (e.g., hourly/daily usage) or categorize usage patterns (e.g., high, medium, low).
 ### Ethical Questions:
@@ -36,7 +41,7 @@ Implement an ML model to predict energy consumption at a future time point (e.g.
 * Sustainability: Can AI help detect energy inefficiencies or recommend eco-friendly practices without penalizing vulnerable groups?
 
 ## Project 3: Investigating Bias and Transparency in AI-Powered Credit Scoring
-### Group members 
+### Group name, members, github link
 ### ML question
 Implement an ML model for binary classification and predict whether an individual should be granted a loan (Yes/No).
 
@@ -47,7 +52,8 @@ Implement an ML model for binary classification and predict whether an individua
 * Accountability: Who is responsible when AI denies credit unfairly?
   
 ## Project 4: Ethical AI for Student Performance Prediction in Educational Systems
-### Group members 
+### Group name, members, github link
+Les Astucieux: 
 ### ML question:
 * Build and train a n ML model to predict student performance (e.g., final grade or pass/fail status). How accurately can a machine learning model predict student academic performance using socioeconomic, demographic, and behavioral data?
 
