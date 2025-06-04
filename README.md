@@ -26,13 +26,16 @@ ai-ethics-summer2025/
 ```
 ---
 
-## 🌍 Themes Explored
+## 🌍 Program themes
 
 - Ethical principles in AI design and deployment  
-- Societal impact of algorithmic decision-making  
-- Case studies on AI governance in India and Europe  
+- Case studies on AI decision making and their ethical implications
+- Business perspectives of AI technologies
 - Challenges in achieving fairness, transparency, and accountability  
-- Intercultural perspectives on privacy, bias, and regulation  
+- Intercultural perspectives on privacy, bias, and regulation
+
+  ![Art Infographic Whiteboard in Beige Rainbow Playful Professional Style](https://github.com/user-attachments/assets/a0bc2339-c2c8-4627-ad5a-ef119ff0a182)
+
 
 ---
 
@@ -40,7 +43,7 @@ ai-ethics-summer2025/
 
 This repository represents the works of students from the **International Institute of Information Technology, Bangalore (IIIT-B)**
 
-The program was coordinated by faculty members from both institutions with expertise in **AI**, **Ethics**, and **Business**.
+The program was coordinated by faculty members of aivancity with expertise in **AI**, **Ethics**, and **Business**.
 
 ---
 
